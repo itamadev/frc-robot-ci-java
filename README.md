@@ -5,6 +5,10 @@
 
 This repo consists of some basic useful actions for running CI (Continous Integration) on FRC robot code (Java).
 
+## Example
+
+[Here](https://github.com/itamadev/frc-robot-ci-java/pull/2) you can see an example PR (Pull Request) demonstrating the GitHub Actions
+
 ## References
 
 - [Setting up CI for Robot Code using GitHub Actions](https://docs.wpilib.org/en/stable/docs/software/advanced-gradlerio/robot-code-ci.html)
